@@ -25,7 +25,7 @@
 
 ## Свой файл расписания
 
-Пошаговая инструкция: [docs/schedule-guide.md]([main/schedule-guide.md]). Коротко:
+Пошаговая инструкция: [docs/schedule-guide.md](https://github.com/vadk42/raspi-android/blob/main/schedule-guide.md). Коротко:
 
 Расписание берётся из JSON-файла по ссылке. Пример лежит в [`docs/schedule.example.json`](https://github.com/vadk42/raspi-android/blob/main/schedule-guide.md).
 Ссылка должна вести на «сырой» файл, например `https://raw.githubusercontent.com/<имя>/<репозиторий>/main/schedule.json`.
